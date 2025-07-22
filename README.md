@@ -37,8 +37,7 @@ Sou um estudante de tecnologia apaixonado por desenvolvimento, inovação e nova
 
 ## 🌟 Projetos em destaque
 
-- [HugoBarros](https://github.com/hugosb2/HugoBarros) — Meu portfólio e projetos pessoais.
-- (Adicione aqui outros projetos que você gostaria de destacar!)
+- [BoviCheck](https://github.com/hugosb2/BoviCheck) — Meu portfólio e projetos pessoais.
 
 ---
 
