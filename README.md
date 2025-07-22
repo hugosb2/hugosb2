@@ -60,7 +60,7 @@ Sou um estudante de tecnologia apaixonado por desenvolvimento, inovação e nova
 <summary>✨ Um pouco mais sobre mim...</summary>
 
 - 🎮 Apaixonado por jogos e tecnologia.
-- 📷 Gosto de fotografia como hobby.
-- 🌱 Sempre aprendendo algo novo!
+- 🖥️ Gosto de programação como hobby.
+- 📒 Sempre aprendendo algo novo!
 
 </details>
