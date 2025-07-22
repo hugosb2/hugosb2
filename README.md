@@ -37,7 +37,7 @@ Sou um estudante de tecnologia apaixonado por desenvolvimento, inovação e nova
 
 ## 🌟 Projetos em destaque
 
-- [BoviCheck](https://github.com/hugosb2/BoviCheck) — Meu portfólio e projetos pessoais.
+- [BoviCheck](https://github.com/hugosb2/BoviCheck)
 
 ---
 
