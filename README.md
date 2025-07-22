@@ -25,7 +25,7 @@ Sou um estudante de tecnologia apaixonado por desenvolvimento, inovação e nova
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) Apps móveis multiplataforma  
 
 ### Desenvolvimento de Jogos & Modelagem
-- ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) Jogos 2D e 3D  
+- ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) Jogos 3D  
 - ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) Modelagem e animação 3D  
 
 ### Linguagens de Programação
