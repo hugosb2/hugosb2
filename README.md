@@ -26,14 +26,6 @@ Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento, inovação e no
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
----
-
-## 🌟 Projetos em destaque
-
-- [BoviCheck](https://github.com/hugosb2/BoviCheck)
-
----
-
 ## 🧑‍💻 Estatísticas
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosb2&show_icons=true&theme=tokyonight)
