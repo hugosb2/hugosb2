@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Hugo Barros!
 
-### 🚀 Desenvolvedor Full Stack | Cydrex Tecnologia
+### 🚀 Desenvolvedor Full Stack
 
 Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras, atuando tanto no desenvolvimento de aplicativos móveis quanto em sistemas web robustos.
 
@@ -53,7 +53,6 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar solu�
 <details>
 <summary>✨ Mais sobre mim</summary>
 
-- 💼 **Atualmente:** Desenvolvendo soluções na Cydrex Tecnologia.
 - 🔭 **Projetos Recentes:** Apps de gestão (como o ColetaJá) e ferramentas de produtividade.
 - 🎮 **Hobby:** Criação de jogos e modelagem 3D.
 - 📒 **Foco:** Sempre aprendendo novas arquiteturas e otimizações.
