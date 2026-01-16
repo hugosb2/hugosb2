@@ -36,8 +36,8 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar solu�
 
 ## 📊 Estatísticas do GitHub
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosb2&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosb2&layout=compact&theme=tokyonight&hide_border=true)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?hugosb2=hugosb2&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hugosb2=hugosb2&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
