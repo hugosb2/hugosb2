@@ -37,6 +37,7 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF
 
 ### ⚙️ OS & Outros
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
 
 
