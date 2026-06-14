@@ -51,7 +51,7 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no In
 
 - 🌐 **[VERT Soluções Ambientais](https://vertinova.com.br/)**: Startup de Itapetinga - BA com foco em inovação na área ambiental.
 - 🛡️ **[DS Proteção](https://dsprotecao.vercel.app/)**: Site institucional para empresa de segurança e proteção de Itapetinga - BA.
-- 🧪 **[PixoLume](https://app-lumilab.vercel.app/)**: Aplicativo mobile de colorimetria, idealizado como uma ferramenta digital para auxiliar em análises químicas.
+- 🧪 **[PixoLume](https://pixolume.vercel.app/)**: Aplicativo mobile de colorimetria, idealizado como uma ferramenta digital para auxiliar em análises químicas.
 - 📦 **[ColetaJá](https://coletaja-app.vercel.app/)**: Aplicativo desenvolvido com foco em gestão de processos e produtividade.
 
 ---
