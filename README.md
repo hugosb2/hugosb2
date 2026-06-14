@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Full Stack
 
-Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF Baiano e um desenvolvedor apaixonado por engenharia de software e soluções tecnológicas. Atuo na criação de aplicativos móveis, estruturação de bancos de dados, desenvolvimento de sistemas web robustos, animações 3D, desenvolvimento de jogos na Godot e manutenção de PCs.
+Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF Baiano e um desenvolvedor apaixonado por engenharia de software e soluções tecnológicas. Atuo na criação de aplicativos móveis, estruturação de bancos de dados, desenvolvimento de sistemas web robustos, animações 3D, desenvolvimento de jogos na Godot, manutenção de PCs e sistemas embarcados.
 
 [![LinkedIn](https://img.shields.io/badge/-Hugo%20Barros-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-santos-barros-7b764b217)](https://www.linkedin.com/in/hugo-santos-barros-7b764b217)
 [![Gmail](https://img.shields.io/badge/-hugobs4987@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hugobs4987@gmail.com)](mailto:hugobs4987@gmail.com)
@@ -42,6 +42,7 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Agile](https://img.shields.io/badge/Metodologias%20Ageis-6DB33F?style=for-the-badge)
 ![Spec Driven](https://img.shields.io/badge/Spec%20Driven%20Development-FF6F00?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Sistemas%20Embarcados-FF6F00?style=for-the-badge)
 ---
 
 
