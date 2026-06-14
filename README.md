@@ -39,8 +39,8 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF
 ### ⚙️ OS & Outros
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_Ágeis-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Spec Driven Development](https://img.shields.io/badge/Spec_Driven-FF6F00?style=for-the-badge&logo=spec&logoColor=white)
+![Agile](https://img.shields.io/badge/Metodologias%20Ageis-6DB33F?style=for-the-badge)
+![Spec Driven](https://img.shields.io/badge/Spec%20Driven%20Development-FF6F00?style=for-the-badge)
 ---
 
 
