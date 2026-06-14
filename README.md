@@ -53,6 +53,7 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no In
 - 🛡️ **[DS Proteção](https://dsprotecao.vercel.app/)**: Site institucional para empresa de segurança e proteção de Itapetinga - BA.
 - 🧪 **[PixoLume](https://pixolume.vercel.app/)**: Aplicativo mobile de colorimetria, idealizado como uma ferramenta digital para auxiliar em análises químicas.
 - 📦 **[ColetaJá](https://coletaja-app.vercel.app/)**: Aplicativo desenvolvido com foco em gestão de processos e produtividade.
+- 🐄 **[BoviCheck](https://bovicheck.vercel.app/)**: Aplicativo mobile para gestão e monitoramento de bovinos, desenvolvido com Flutter.
 
 ---
 
