@@ -4,7 +4,7 @@
 
 Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF Baiano e um desenvolvedor apaixonado por engenharia de software e soluções tecnológicas. Atuo na criação de aplicativos móveis, estruturação de bancos de dados, desenvolvimento de sistemas web robustos, animações 3D, desenvolvimento de jogos na Godot e manutenção de PCs.
 
-[![LinkedIn](https://img.shields.io/badge/-Hugo%20Barros-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-barros-7b764b217)](https://www.linkedin.com/in/hugo-barros-7b764b217)
+[![LinkedIn](https://img.shields.io/badge/-Hugo%20Barros-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-santos-barros-7b764b217)](https://www.linkedin.com/in/hugo-santos-barros-7b764b217)
 [![Gmail](https://img.shields.io/badge/-hugobs4987@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hugobs4987@gmail.com)](mailto:hugobs4987@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5577988144403)](https://wa.me/5577988144403)
 
@@ -66,7 +66,7 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF
 ## 📫 Contato
 
 - **E-mail:** [hugobs4987@gmail.com](mailto:hugobs4987@gmail.com)
-- **LinkedIn:** [Hugo Barros](https://www.linkedin.com/in/hugo-barros-7b764b217)
+- **LinkedIn:** [Hugo Barros](https://www.linkedin.com/in/hugo-santos-barros-7b764b217)
 - **WhatsApp:** [(77) 98814-4403](https://wa.me/5577988144403)
 
 ---
