@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Full Stack
 
-Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF Baiano e um desenvolvedor apaixonado por engenharia de software e soluções tecnológicas. Atuo na criação de aplicativos móveis, estruturação de bancos de dados, desenvolvimento de sistemas web robustos, animações 3D e desenvolvimento de jogos na Godot.
+Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF Baiano e um desenvolvedor apaixonado por engenharia de software e soluções tecnológicas. Atuo na criação de aplicativos móveis, estruturação de bancos de dados, desenvolvimento de sistemas web robustos, animações 3D, desenvolvimento de jogos na Godot e manutenção de PCs.
 
 [![LinkedIn](https://img.shields.io/badge/-Hugo%20Barros-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-barros-7b764b217)](https://www.linkedin.com/in/hugo-barros-7b764b217)
 [![Gmail](https://img.shields.io/badge/-hugobs4987@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hugobs4987@gmail.com)](mailto:hugobs4987@gmail.com)
@@ -33,11 +33,14 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ OS & Outros
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_Ágeis-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Spec Driven Development](https://img.shields.io/badge/Spec_Driven-FF6F00?style=for-the-badge&logo=spec&logoColor=white)
 ---
 
 
