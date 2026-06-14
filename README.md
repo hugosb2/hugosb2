@@ -16,7 +16,7 @@ Seja bem-vindo(a) ao meu perfil! Sou graduando em Sistemas de Informação no IF
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flet](https://img.shields.io/badge/Flet-00D474?style=for-the-badge&logo=python&logoColor=white)
+![Flet (testes)](https://img.shields.io/badge/Flet_(testes)-00D474?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🖥️ Back-end & Infraestrutura
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
