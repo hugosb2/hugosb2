@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+    <linearGradient id="goldLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fde68a" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Wing -->
+  <g fill="url(#gold)" stroke="#d97706" stroke-width="0.5">
+    <path d="M35 45 C 20 55, 10 75, 15 95 C 18 105, 22 115, 26 120 C 25 110, 23 100, 24 90 C 25 75, 28 60, 35 50 Z" />
+    <path d="M38 52 C 28 62, 20 78, 23 95 C 25 105, 28 112, 30 116 C 29 106, 28 96, 29 85 C 30 72, 33 60, 38 52 Z" fill="url(#goldLight)" />
+    <path d="M40 60 C 34 68, 29 80, 31 93 C 32 100, 34 105, 34 108 C 34 100, 34 92, 36 82 C 37 74, 38 66, 40 60 Z" fill="#fff" fill-opacity="0.3" />
+  </g>
+
+  <!-- Right Wing -->
+  <g fill="url(#gold)" stroke="#d97706" stroke-width="0.5" transform="scale(-1, 1) translate(-200, 0)">
+    <path d="M35 45 C 20 55, 10 75, 15 95 C 18 105, 22 115, 26 120 C 25 110, 23 100, 24 90 C 25 75, 28 60, 35 50 Z" />
+    <path d="M38 52 C 28 62, 20 78, 23 95 C 25 105, 28 112, 30 116 C 29 106, 28 96, 29 85 C 30 72, 33 60, 38 52 Z" fill="url(#goldLight)" />
+    <path d="M40 60 C 34 68, 29 80, 31 93 C 32 100, 34 105, 34 108 C 34 100, 34 92, 36 82 C 37 74, 38 66, 40 60 Z" fill="#fff" fill-opacity="0.3" />
+  </g>
+
+  <!-- Shield Outer -->
+  <path d="M60 20 L 60 80 C 60 100, 75 115, 100 135 C 125 115, 140 100, 140 80 L 140 20 L 100 13 Z" fill="#0a0a0a" stroke="url(#gold)" stroke-width="5" />
+  
+  <!-- Shield Inner Border -->
+  <path d="M65 22 L 65 80 C 65 98, 78 111, 100 130 C 121 111, 135 98, 135 80 L 135 22 L 100 16 Z" fill="none" stroke="url(#gold)" stroke-width="2" />
+
+  <!-- DS Text -->
+  <text x="100" y="83" text-anchor="middle" fill="#0a0a0a" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" letter-spacing="-2">DS</text>
+
+  <!-- PROTEÇÃO Text -->
+  <text x="100" y="106" text-anchor="middle" fill="#0a0a0a" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PROTEÇÃO</text>
+</svg>
