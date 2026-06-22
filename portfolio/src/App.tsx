@@ -1,11 +1,11 @@
 import { useState, useEffect, useRef } from 'react'
 import {
   Mail, ChevronDown, Smartphone, Server, Gamepad2,
-  Code2, Terminal, Globe, ExternalLink, Sparkles, BookOpen, Palette,
+  Code2, Terminal, ExternalLink, Sparkles, BookOpen, Palette,
   GraduationCap, Brain, Users, Lightbulb, Target, ArrowUpRight,
-  MessageSquareCode, Cpu, User, Wrench, FolderKanban, AtSign,
+  Cpu, User, Wrench, FolderKanban, AtSign,
   Leaf, Shield, FlaskConical, Package, MapPin, Calendar,
-  Quote, Star, ArrowRight,
+  Quote, ArrowRight,
 } from 'lucide-react'
 
 type Skill = {
